@@ -17,7 +17,7 @@ using the data available [here](https://s3-ap-southeast-2.amazonaws.com/content.
 
 ### Requirements:
 - Use React Framework
-- The content must come from `.json` file
+- The content must come from [this `.json` file](https://s3-ap-southeast-2.amazonaws.com/content.agridigital.io/content/data/challenge.json)
 - Must be responsive
 - Error handling
 - Add as many comments as possible to explain your code
