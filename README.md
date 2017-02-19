@@ -8,6 +8,8 @@ Please implement the navigation from the screenshots below:
 
 ![Image 2](https://s3-ap-southeast-2.amazonaws.com/content.agridigital.io/content/images/challenge/image02.png)
 
+using the data available [here](https://s3-ap-southeast-2.amazonaws.com/content.agridigital.io/content/data/challenge.json)
+
 ### Notes
 - No need to implement the icons for each navigation item
 - Pixel perfect is not an issue. We are really interested in how you go about structuring and writing your components
@@ -27,4 +29,6 @@ Please implement the navigation from the screenshots below:
 - Any optimisation to reduce load time
 
 ### How to submit:
-Coming soon
+1. Construct your solution.
+2. Make sure any instructions required to build and run your solution are included in the README.md or an obviously named file.
+3. Zip up your solution and mail to mick.heywood at agridigital.io
